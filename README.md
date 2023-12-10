@@ -1,10 +1,8 @@
 # 40.lesson_19
 
-Certainly! Let's enhance the GitHub API homework assignment to make it even more engaging:
+## The project was deployed on the GitHub page using the [link]()
 
-Homework Assignment: GitHub User Explorer
-
-Task Description:
+##Task Description:
 
 In this assignment, you will create a dynamic web application that allows users to explore GitHub users' profiles by entering their usernames. The application will fetch data from the GitHub API and display essential information about the user.
 
